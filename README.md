@@ -42,6 +42,11 @@ Compile and Run:
 
 ### 3. String Operations
 -  This set of C programs are used in Data Structures & Algorithm that shows the Operations that can do within a String.
+
+### 4. Hangman Game
+-  This hangman game in c code is about guessing letters (A-Z) to form the words before the man hangs.
+
+  
 ## Contributing
 
 If you'd like to contribute by adding more projects or improving existing ones, feel free to open a pull request. Make sure to follow the project structure and coding standards.
